@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+#Jupiterss
+.ipynb_checkpoints/
+
+#Data
+data/raw/*.csv
+
+# Results
+results/*.csv
+results/*.txt
+
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
